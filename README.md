@@ -31,8 +31,27 @@ The very first time you use git, you need to set up your credentials:
 		
 Step 0 (for Jeffrey):
 `cd ~/Documents/Personal/ChefJeff`
+
 `git init`
-- this makes a `.git` file in this directory
-``
+- makes a `.git` file in this directory
+
+`git add .`
+- adds all the files I had made so far in the directory to the staging area called Index
+- `.` is a shortcut that means "this current working directory" (i.e. the folder we are currently in)
+
+`git commit -m "first commit"`
+- commits all the changes in the staging area to HEAD, which is like the final staging area (but is still on your local computer)
+
+`git branch -M main`
+- changes name of the branch we are on (default is `master`) to be `main`
+
+`git remote add origin https://github.com/jeffreyboschman/ChefJeff.git`
+- connects this new local git repository that I just made to a remote server (I made one quickly on GitHub)
+- now, we can push and pull changes from this remote server, and reference is with the name `origin` instead of `https://github.com/jeffreyboschman/ChefJeff.git` every time
+
+`git push -u origin main`
+- this command says "push the commits in the local branch named `main` to the remote named `origin`"
+- now, all the stuff I just committed will be available to see on my github account online
+
 
 
