@@ -17,7 +17,7 @@ You can use the following tags and tag categories:
 
 ---
 ---
-## How to use Git (for Melissa)
+## How to use Git (for Melissa Leung)
 These steps are for my fiancé, who has never used Git before.
 
 ---
