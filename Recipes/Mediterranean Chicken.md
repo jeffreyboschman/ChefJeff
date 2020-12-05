@@ -30,7 +30,8 @@ For 3-4 servings
 
 ---
 ## Notes
-- Goes well with [[Greek Salad]] and [[Garlic Naan]]
+- For carbs, goes well with [[Garlic Naan]]
+- For veggies, goes well with [[Greek Salad]], [[Kale Salad]], [[Steamed or Boiled Frozen Mixed Veggies]]
 
 ---
 ## Tags

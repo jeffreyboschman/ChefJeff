@@ -11,22 +11,9 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
-          }
-        },
-        "group": "1e8755693641d3cc"
-      },
-      {
-        "id": "fc044ca52323aee0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
             "mode": "preview"
           }
-        },
-        "group": "1e8755693641d3cc"
+        }
       }
     ],
     "direction": "vertical"
@@ -100,14 +87,14 @@
   },
   "lastOpenFiles": [
     "README.md",
-    "Burrito Bowl.md",
-    "Recipes/Pico de Gallo.md",
-    "Pico de Gallo.md",
-    "Ingredients/Fruits and Vegetables/Tomatoes.md",
-    "Recipes/Greek Salad.md",
-    "Ingredients/Fruits and Vegetables/Baby Tomatoes.md",
-    "Untitled.md",
-    "Recipes/Miso Salmon.md",
-    "Recipes/Stirfry Template.md"
+    "Easy Red Pasta Sauce.md",
+    "Recipes/Burrito Bowl.md",
+    "Recipes/Candice's Lentils.md",
+    "Recipes/Easy Salmon.md",
+    "Recipes/Easy Soondubu.md",
+    "Recipes/Egg Salad.md",
+    "Recipes/Frozen Dumplings.md",
+    "Recipes/Mediterranean Chicken.md",
+    "Recipes/Garlic Spice Shrimp.md"
   ]
 }

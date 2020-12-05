@@ -21,6 +21,8 @@ For 2 servings
 ---
 ## Notes
 - tried to modify from https://www.makegoodfood.ca/en/recipe/persian-style-sumac-shrimp-1 because Sumac spice is hard to find
+- For carbs, goes well with rice, [[Garlic Naan]]
+- For veggies, goes well with [[Kale Salad]], [[Greek Salad]], [[Steamed or Boiled Frozen Mixed Veggies]]
 
 ---
 ## Tags

@@ -21,6 +21,8 @@ For 2-4 servings
 ---
 ## Notes
 - from https://www.youtube.com/watch?v=kLvzBP2jk9k
+- For carbs, goes well with rice
+- For veggies, goes well with [[Mom's Japanese Pickles]], [[Korean Spinach Side Dish]], [[Stirfry]], [[Steamed or Boiled Frozen Mixed Veggies]], [[Kimchi]]
 
 ---
 ## Tags

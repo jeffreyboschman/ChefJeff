@@ -21,6 +21,10 @@ For 3-4 servings
 	- stir every once in a while to prevent sticking/burning
 
 ---
+## Notes
+- Goes well in [[Burrito Bowl]], in [[Tacos]], or just over Rice
+
+---
 ## Tags
 #mexican #indian ?
 #vegetarian

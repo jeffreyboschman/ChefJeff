@@ -34,10 +34,11 @@ For variable serving size. This is just an approximate recipe
 
 ---
 ## Notes
+- For carbs, goes well with rice
 
 ---
 ## Tags
 #japanese #chinese 
 #vegetarian 
 #breakfast #lunch #dinner 
-#sidedish 
+#sidedish #maindish

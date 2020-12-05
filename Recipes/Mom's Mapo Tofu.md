@@ -29,6 +29,8 @@ For 4 servings
 ---
 ## Notes
 - not sure if add soy sauce and oyster sauce
+- For carbs, goes well with rice
+- For veggies, goes well with [[Stirfry]], [[Korean Spinach Side Dish]]
 
 
 ---

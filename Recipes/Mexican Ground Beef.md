@@ -22,6 +22,8 @@ For 4 servings?
 
 ---
 ## Note
+- Goes well in [[Burrito Bowl]] or [[Tacos]]
+- Leftovers can be used for [[Mom's Hamburger Stew]], [[Easy Red Pasta Sauce]]
 
 ---
 ## Tags

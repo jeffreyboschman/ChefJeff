@@ -13,6 +13,8 @@
 
 ---
 ## Notes
+- For carbs, goes well with rice
+- For veggies, goes well with [[Mom's Japanese Pickles]], [[Korean Spinach Side Dish]]
 
 ---
 ## Tags

@@ -29,6 +29,7 @@ For 2 servings
 ---
 ## Notes
 - from https://www.justonecookbook.com/miso-salmon/
+- For veggies, goes well with [[Mom's Japanese Pickles]], [[Stirfry]], [[Korean Spinach Side Dish]], [[Steamed or Boiled Frozen Mixed Veggies]], [[Daikon Oroshi]], [[Kale Salad]]
 
 ---
 ## Tags

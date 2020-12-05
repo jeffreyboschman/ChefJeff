@@ -22,6 +22,7 @@ For 1 serving
 ---
 ## Notes
 - Goes well in a sandwich or on crackers
+- For veggies, goes well with soup or salad iunno
 
 ---
 ## Tags
