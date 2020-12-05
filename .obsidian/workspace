@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 178
+    "width": 289
   },
   "right": {
     "id": "1501f275a815c7a7",
@@ -87,14 +87,14 @@
   },
   "lastOpenFiles": [
     "README.md",
-    "Easy Red Pasta Sauce.md",
-    "Recipes/Burrito Bowl.md",
+    "Recipes/Chicken Soup Rice.md",
+    "Recipes/Greek Salad.md",
     "Recipes/Candice's Lentils.md",
-    "Recipes/Easy Salmon.md",
-    "Recipes/Easy Soondubu.md",
-    "Recipes/Egg Salad.md",
-    "Recipes/Frozen Dumplings.md",
-    "Recipes/Mediterranean Chicken.md",
-    "Recipes/Garlic Spice Shrimp.md"
+    "Recipes/Untitled.md",
+    "Recipes/Teriyaki Chicken.md",
+    "Recipes/Pico de Gallo.md",
+    "Recipes/Microwaved Tofu.md",
+    "Recipes/Daikon Oroshi.md",
+    "Recipes/Stirfry.md"
   ]
 }
