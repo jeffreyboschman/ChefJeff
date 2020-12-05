@@ -66,13 +66,16 @@ These steps are for my fiancé, who has never used Git before.
 `git config color.ui true`
 - This is just a thing you can quickly do to show a more colourful git output on your terminal screen with certain commands
 
-`cd <the folder where you want everything to be>`
+`cd ~/Documents`
 - Now we want to go to a certain directory on your local computer. This is where we will put the files. 
 - `cd` means "change directory". 
 	- This is a UNIX command. All the Git commands are prefaced by `git`
 
 `git clone https://github.com/jeffreyboschman/ChefJeff.git`
 - To make a copy of the remote respository that I made and see it on your local computer for the first time, you need to "clone" it. 
+
+`cd ChefJeff`
+- to change directories into ChefJeff
 
 `ls`
 - The `ls` command means "list", as in "list the contents of this directory" 
