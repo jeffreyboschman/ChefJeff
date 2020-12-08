@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Peanut Butter.md",
-    "Recipes/Crackers with Peanut Butter.md",
-    "Crackers.md",
-    "Recipes/Crackers with Hummus.md",
-    "Beans.md",
-    "Recipes/Burrito Bowl.md",
+    "README.md",
+    "Recipes/Scrambled Omelette.md",
+    "Recipes/Miso Salmon.md",
     "Recipes/Roasted Sweet Potato Salad with Feta and Pecans.md",
-    "Roasted Sweet Potato Salad with Avocado and Cranberries.md",
-    "Untitled.md",
-    "Untitled 1.md"
+    "Recipes/Smoked Salmon Chirashi Don.md",
+    "Recipes/Egg Salad.md",
+    "Recipes/Chicken Soup Rice.md",
+    "Recipes/Greek Salad.md",
+    "Recipes/Candice's Lentils.md",
+    "Recipes/Untitled.md"
   ]
 }
