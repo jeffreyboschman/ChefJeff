@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +82,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "README.md",
     "Recipes/Scrambled Omelette.md",
     "Recipes/Miso Salmon.md",
@@ -94,7 +91,6 @@
     "Recipes/Egg Salad.md",
     "Recipes/Chicken Soup Rice.md",
     "Recipes/Greek Salad.md",
-    "Recipes/Candice's Lentils.md",
-    "Recipes/Untitled.md"
+    "Recipes/Candice's Lentils.md"
   ]
 }
