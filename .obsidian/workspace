@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "534cf797d0d15ef7",
+        "id": "fda576a62c7bd54e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Recipes/Daikon Oroshi.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Recipes/Daikon Oroshi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Recipes/Daikon Oroshi.md",
+    "Green Onion.md",
+    "Recipes/Basic Tamagoyaki.md",
+    "Kale Salad.md",
     "Untitled.md",
     "README.md",
     "Recipes/Scrambled Omelette.md",
     "Recipes/Miso Salmon.md",
     "Recipes/Roasted Sweet Potato Salad with Feta and Pecans.md",
-    "Recipes/Smoked Salmon Chirashi Don.md",
-    "Recipes/Egg Salad.md",
-    "Recipes/Chicken Soup Rice.md",
-    "Recipes/Greek Salad.md",
-    "Recipes/Candice's Lentils.md"
+    "Recipes/Smoked Salmon Chirashi Don.md"
   ]
 }

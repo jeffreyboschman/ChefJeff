@@ -4,7 +4,8 @@
 
 ---
 ## Steps
-- grate the daikon
+- Wash and grate the daikon
+	- cut away bad parts on the outside, but you don't need to peel it
 - itadakimasu~
 
 
