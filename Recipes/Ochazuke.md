@@ -6,7 +6,7 @@
 - [[Umeboshi]]
 - [[Tsukemono]]
 	- ex. fukujinzuke (the red one), 
-- [[Kombu]] (I think)
+- [[Shiso Kombu Tsukudani]] (I think)
 - (optional) [[Smoked Salmon]] or [[Easy Salmon]], flaked
 
 ---

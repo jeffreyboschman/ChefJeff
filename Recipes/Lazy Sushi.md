@@ -7,7 +7,7 @@
 - (optional) [[Umeboshi]]
 - (optional) [[Mom's Japanese Pickles]]
 - (optional) [[Tsukemono]]
-- (optional) [[Kombu]]
+- (optional) [[Shiso Kombu Tsukudani]]
 - (optional) [[Furikake]]
 - (optional) [[Smoked Salmon]] or [[Easy Salmon]], flaked
 - (optional) [[Sausage]], sliced and pan fried
