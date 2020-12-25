@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "fda576a62c7bd54e",
+        "id": "034c2e7599e30cf9",
         "type": "leaf",
+        "dimension": 51.38162808065721,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Recipes/Mom's Hamburger Stew.md",
+            "mode": "preview"
+          }
+        },
+        "group": "4d6368bd09535587"
+      },
+      {
+        "id": "b67f27ced701ad9f",
+        "type": "leaf",
+        "dimension": 48.61837191934279,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Recipes/Daikon Oroshi.md",
+            "file": "Recipes/Mom's Hamburger Stew.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "4d6368bd09535587"
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 289,
+    "collapsed": true
   },
   "right": {
     "id": "1501f275a815c7a7",
@@ -69,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Daikon Oroshi.md",
+                "file": "Recipes/Mom's Hamburger Stew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Recipes/Mom's Hamburger Stew.md",
+    "Egg.md",
+    "Recipes/Candice's Lentils.md",
+    "Kombu.md",
+    "Recipes/Ochazuke.md",
     "Recipes/Daikon Oroshi.md",
     "Green Onion.md",
     "Recipes/Basic Tamagoyaki.md",
     "Kale Salad.md",
-    "Untitled.md",
-    "README.md",
-    "Recipes/Scrambled Omelette.md",
-    "Recipes/Miso Salmon.md",
-    "Recipes/Roasted Sweet Potato Salad with Feta and Pecans.md",
-    "Recipes/Smoked Salmon Chirashi Don.md"
+    "Untitled.md"
   ]
 }
