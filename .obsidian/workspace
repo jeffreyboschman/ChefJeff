@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Recipes/Oven Baked Lemon Salmon.md",
+            "file": "Recipes/Inari Sushi.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Oven Baked Lemon Salmon.md",
+                "file": "Recipes/Inari Sushi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "Mom's Teriyaki Chicken Drumsticks.md",
+    "Recipes/Miso Salmon.md",
     "Recipes/Oven Baked Lemon Salmon.md",
     "Recipes/Pico de Gallo.md",
     "Recipes/Ochazuke.md",
-    "Untitled.md",
     "Recipes/Mom's Hamburger Stew.md",
     "Egg.md",
     "Recipes/Candice's Lentils.md",
-    "Kombu.md",
-    "Recipes/Daikon Oroshi.md",
-    "Green Onion.md"
+    "Kombu.md"
   ]
 }
