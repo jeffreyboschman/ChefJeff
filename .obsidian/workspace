@@ -6,29 +6,14 @@
       {
         "id": "034c2e7599e30cf9",
         "type": "leaf",
-        "dimension": 51.38162808065721,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Recipes/Mom's Hamburger Stew.md",
-            "mode": "preview"
-          }
-        },
-        "group": "4d6368bd09535587"
-      },
-      {
-        "id": "b67f27ced701ad9f",
-        "type": "leaf",
-        "dimension": 48.61837191934279,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Recipes/Mom's Hamburger Stew.md",
+            "file": "Recipes/Oven Baked Lemon Salmon.md",
             "mode": "source"
           }
-        },
-        "group": "4d6368bd09535587"
+        }
       }
     ],
     "direction": "vertical"
@@ -68,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289,
-    "collapsed": true
+    "width": 289
   },
   "right": {
     "id": "1501f275a815c7a7",
@@ -85,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Mom's Hamburger Stew.md",
+                "file": "Recipes/Oven Baked Lemon Salmon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Recipes/Oven Baked Lemon Salmon.md",
+    "Recipes/Pico de Gallo.md",
+    "Recipes/Ochazuke.md",
+    "Untitled.md",
     "Recipes/Mom's Hamburger Stew.md",
     "Egg.md",
     "Recipes/Candice's Lentils.md",
     "Kombu.md",
-    "Recipes/Ochazuke.md",
     "Recipes/Daikon Oroshi.md",
-    "Green Onion.md",
-    "Recipes/Basic Tamagoyaki.md",
-    "Kale Salad.md",
-    "Untitled.md"
+    "Green Onion.md"
   ]
 }
